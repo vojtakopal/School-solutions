@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc} % nastavuje použité kódování, uživatelé Windows zamìní latin2 za cp1250
+\usepackage[T1]{fontenc}
+\usepackage{a4wide} % nastavuje standardní evropský formát stránek A4
+%\usepackage{index} % nutno použít v pøípadì tvorby rejstøíku balíèkem makeindex
+%\usepackage{fancybox} % umožòuje pokroèilé rámeèkování :-)
+\usepackage{graphicx} % nezbytné pro standardní vkládání obrázkù do dokumentu
+\usepackage{enumerate}
+\usepackage{listings}
+\usepackage[dvips]{color}
+\usepackage{subfigure}
+\usepackage{amssymb,amsmath}
+
+\setlength{\parindent}{0pt} 
+\setlength{\parskip}{2ex}
+
+\title{Solution for assignment \#1}
+\date{October 27, 2012}
+\author{Vojtech Kopal}
+
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$} }
+
+\begin{document}
+
+\maketitle
+
+\clearpage
+
+\section{Economic part}
+
+\subsection*{a) Economic growth and convergence - descriptive statistics:}
+
+\begin{figure}[h!]
+  \centering           
+  \subfigure{                         
+  	\includegraphics{graphs/1a/gdp1975.pdf}
+  	\label{1a:gpd1975}
+  }                   
+  \subfigure{                         
+  	\includegraphics{graphs/1a/gdp1985.pdf}
+  	\label{1a:gpd1985}
+  }                 
+  \subfigure{                         
+  	\includegraphics{graphs/1a/gdp1995.pdf}
+  	\label{1a:gpd1995}
+  }                 
+  \subfigure{                         
+  	\includegraphics{graphs/1a/gdp2005.pdf}
+  	\label{1a:gpd2005}
+  }                         
+  \caption{Bla.}
+\end{figure}
+
+\end{document}
