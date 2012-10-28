@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.21)  27 OCT 2012 17:19
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.21)  28 OCT 2012 11:30
 entering extended mode
 **solution1.tex
 
@@ -92,43 +92,8 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 )
 ("C:\Users\Vojta\Documents\Studium\IES\Problem sets\Macro A\Problem set 1\solut
 ion1.aux"
-
-LaTeX Warning: Label `1a:gpd1975' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1975' multiply defined.
-
-
-LaTeX Warning: Label `1a:gpd1985' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1985' multiply defined.
-
-
-LaTeX Warning: Label `1a:gpd1995' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1995' multiply defined.
-
-
-LaTeX Warning: Label `1a:gpd1975' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1975' multiply defined.
-
-
-LaTeX Warning: Label `1a:gpd1985' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1985' multiply defined.
-
-
-LaTeX Warning: Label `1a:gpd1995' multiply defined.
-
-
-LaTeX Warning: Label `sub@1a:gpd1995' multiply defined.
-
-)
+("C:\Users\Vojta\Documents\Studium\IES\Problem sets\Macro A\Problem set 1\essay
+.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
@@ -236,26 +201,29 @@ et 1/parts/1a_6.pdf> <C:/Users/Vojta/Documents/Studium/IES/Problem sets/Macro A
 ts/Macro A/Problem set 1/parts/1a_8.pdf> <C:/Users/Vojta/Documents/Studium/IES/
 Problem sets/Macro A/Problem set 1/parts/1a_9.pdf> <C:/Users/Vojta/Documents/St
 udium/IES/Problem sets/Macro A/Problem set 1/parts/1a_10.pdf>]
+("C:\Users\Vojta\Documents\Studium\IES\Problem sets\Macro A\Problem set 1\essay
+.tex" [4
+
+]) [5]
 ("C:\Users\Vojta\Documents\Studium\IES\Problem sets\Macro A\Problem set 1\solut
-ion1.aux")
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+ion1.aux"
+("C:\Users\Vojta\Documents\Studium\IES\Problem sets\Macro A\Problem set 1\essay
+.aux")) ) 
 Here is how much of TeX's memory you used:
- 1366 strings out of 494045
- 18965 string characters out of 3145968
- 66048 words of memory out of 3000000
- 4682 multiletter control sequences out of 15000+200000
+ 1374 strings out of 494045
+ 19464 string characters out of 3145968
+ 69431 words of memory out of 3000000
+ 4683 multiletter control sequences out of 15000+200000
  6063 words of font info for 22 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,7n,24p,221b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on solution1.pdf (3 pages, 150139 bytes).
+ 27i,7n,24p,1023b,246s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+>
+Output written on solution1.pdf (5 pages, 159657 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
